@@ -1,6 +1,6 @@
 {
   "name": "cosui",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "A frontend UI solution for the AI era. Includes UI protocols, rendering SDKs, and component libraries for Generative UI, AI Agents, and LLM-powered applications.",
   "main": "src/index.ts",
   "scripts": {
